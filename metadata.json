@@ -1,0 +1,6 @@
+{
+  "name": "Shopee Affiliate Deals & UX Research Lab",
+  "description": "Website affiliate Shopee với các deal hot chọn lọc, tích hợp bộ mô phỏng 4 kịch bản trải nghiệm người dùng (Control, Scarcity, Sneaking, Both) phục vụ nghiên cứu E-commerce UX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
